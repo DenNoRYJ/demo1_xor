@@ -1,0 +1,30 @@
+# Reading pref.tcl
+# OpenFile {C:/School/T09/3rd Term/Inst_and_Process/FPGA-Logic-Gates/FPGA_demo/demo1_xor/xor_gate.mpf}
+# Loading project xor_gate
+# Compile of testbench.v was successful.
+# Compile of xor_gate.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of testbench.v was successful.
+# Compile of xor_gate.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim work.testbench 
+# Start time: 10:07:53 on Apr 16,2026
+# Loading work.testbench
+# Loading work.xor_gate
+# Break key hit
+run -continue
+run -all
+run
+# Compile of testbench.v was successful.
+# Compile of xor_gate.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.testbench
+# End time: 10:20:51 on Apr 16,2026, Elapsed time: 0:12:58
+# Errors: 0, Warnings: 6
+# vsim work.testbench 
+# Start time: 10:20:51 on Apr 16,2026
+# Loading work.testbench
+# Loading work.xor_gate
+# End time: 10:21:15 on Apr 16,2026, Elapsed time: 0:00:24
+# Errors: 0, Warnings: 1

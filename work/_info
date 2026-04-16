@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/School/T09/3rd Term/Inst_and_Process/FPGA_demo/full_adder
+vtestbench
+!s110 1776306988
+!i10b 1
+!s100 G^i1Y0K=R1:HDRV2Ul7JW3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7f3loN`Z;VJTh;OGSZ<>42
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/School/T09/3rd Term/Inst_and_Process/FPGA-Logic-Gates/FPGA_demo/demo1_xor
+w1776306976
+8C:/School/T09/3rd Term/Inst_and_Process/FPGA_demo/demo1_xor/testbench.v
+FC:/School/T09/3rd Term/Inst_and_Process/FPGA_demo/demo1_xor/testbench.v
+!i122 14
+L0 2 22
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1776306988.000000
+!s107 C:/School/T09/3rd Term/Inst_and_Process/FPGA_demo/demo1_xor/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/School/T09/3rd Term/Inst_and_Process/FPGA_demo/demo1_xor/testbench.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vxor_gate
+!s110 1776306218
+!i10b 1
+!s100 zKCPcKkn<nkh^=FS>5cM[0
+R0
+IC5H`:93RI=Z:YhdP`iU=l2
+R1
+R2
+w1776104573
+8C:/School/T09/3rd Term/Inst_and_Process/FPGA_demo/demo1_xor/xor_gate.v
+FC:/School/T09/3rd Term/Inst_and_Process/FPGA_demo/demo1_xor/xor_gate.v
+!i122 13
+L0 14 18
+R3
+r1
+!s85 0
+31
+!s108 1776306218.000000
+!s107 C:/School/T09/3rd Term/Inst_and_Process/FPGA_demo/demo1_xor/xor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/School/T09/3rd Term/Inst_and_Process/FPGA_demo/demo1_xor/xor_gate.v|
+!i113 1
+R4
+R5
